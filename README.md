@@ -23,7 +23,7 @@ El proyecto consiste en el desarrollo de un sistema de comercio electrónico dis
 
 # Tecnologías a utilizar:
 
-* Node.js, TypeScript, SQL, herramientas para diseño de BD.
+* Node.js, TypeScript, SQL, herramienta para diseño de BD SQL SERVER.
 
 # Entorno de desarrollo:
 
@@ -34,7 +34,7 @@ El proyecto consiste en el desarrollo de un sistema de comercio electrónico dis
 
 # Integrantes del equipo:
 
--
--
--
--
+-Chavez Peña Zair
+-Contreras Olivera Angie
+-Soriano Patricio Aldair
+
