@@ -1,9 +1,9 @@
 # sistema-comercio-electronico
-# Descripción del Proyecto:
+# Descripción del Proyecto
 
 El proyecto consiste en el desarrollo de un sistema de comercio electrónico diseñado para facilitar la venta de productos en línea, que va a permitir a los usuarios navegar por un catálogo de productos, realizar compras de manera segura y gestionar sus pedidos.
 
-## Objetivos :
+## Objetivos 
 
 -Facilitar las transacciones en línea mediante una plataforma intuitiva y segura para usuarios.
 
