@@ -21,6 +21,14 @@ El proyecto consiste en el desarrollo de un sistema de comercio electrónico dis
 
 # Entorno de desarrollo:
 
+- npm install
+- npm start
+
 # Estructura inicial del proyecto:
 
 # Integrantes del equipo:
+
+-
+-
+-
+-
