@@ -35,6 +35,8 @@ El proyecto consiste en el desarrollo de un sistema de comercio electrónico dis
 # Integrantes del equipo:
 
 -Chavez Peña Zair
+
 -Contreras Olivera Angie
+
 -Soriano Patricio Aldair
 
