@@ -30,7 +30,7 @@ Instrucciones para configurar y ejecutar el proyecto:
 
 - npm install
 - npm start : Para ejecutar el proyecto.
-- npm init -y : Para crear un archivo package.json.
+- npm init -y : Para crear un archivo package.json y configurar los scripts que faciliten la compilación y ejecución del proyecto.
 - npm install -g typescript : Instala TypeScript globalmente.
 - tsc --init : Para crear el archivo tsconfig.json para configurar TypeScript.
 
