@@ -25,10 +25,14 @@ El proyecto consiste en el desarrollo de un sistema de comercio electrónico dis
 
 * Node.js, TypeScript, SQL, herramienta para diseño de BD SQL SERVER.
 
-# Entorno de desarrollo:
+# Entorno de desarrollo
+Instrucciones para configurar y ejecutar el proyecto:
 
 - npm install
-- npm start
+- npm start : Para ejecutar el proyecto.
+- npm init -y : Para crear un archivo package.json.
+- npm install -g typescript : Instala TypeScript globalmente.
+- tsc --init : Para crear el archivo tsconfig.json para configurar TypeScript.
 
 # Estructura inicial del proyecto:
 
