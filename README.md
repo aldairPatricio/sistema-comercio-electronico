@@ -16,7 +16,9 @@ El proyecto consiste en el desarrollo de un sistema de comercio electrónico dis
 ## El sistema se enfoca en el comercio electrónico con características como:
 
 -Gestión de productos (visualización, búsqueda y filtrado).
+
 -Carrito de compras con cálculo automático de totales.
+
 -Procesamiento de pagos en línea.
 
 # Tecnologías a utilizar:
